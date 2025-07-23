@@ -24,6 +24,7 @@ app.use(
     origin: [
       "http://localhost:5000",
       "http://localhost:3000",
+      "https://frontend-me.vercel.app"
     ],
     credentials: true,
   })
