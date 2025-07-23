@@ -10,7 +10,7 @@ bloodGroupType: {
     required: true,
     enum: ['A+', 'A-', 'B+', 'B-', 'AB+', 'AB-', 'O+', 'O-'],
 },
-contact: {
+phone: {
     type: Number,
     
 },
