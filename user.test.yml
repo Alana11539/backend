@@ -1,0 +1,28 @@
+# config:
+#   target: "http://localhost:5000"
+#   phases:
+#     - duration: 10
+#       arrivalRate: 5
+#   headers:
+#     Authorization: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4N2UwOWVjMGM2OGQ5NDFiYTJjNmViYSIsImVtYWlsIjoibXVoYW1tYWRqYWhhbmdpcjY0M0BnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NTMyNTY0MjAsImV4cCI6MTc1MzI1ODIyMH0.MkavfRcjkK5FfbgPthTE0NkISDOWrha234Jr4dSlsrQ"
+
+# scenarios:
+#   - name: "Fetch all data with token"
+#     flow:
+#       - get:
+#           url: "/api/v1/"
+
+
+# config:
+#   target: 'http://localhost:5000'
+#   phases:
+#     - duration: 30
+#       arrivalRate: 5
+# scenarios:
+#   - name: "Test User Login"
+#     flow:
+#       - post:
+#           url: "/api/admin/login"
+#           json:
+#             email: "muhammadjahangir643@gmail.com"
+#             password: "jk123456"

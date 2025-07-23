@@ -1,0 +1,14 @@
+[2025-07-19T17:00:51.218Z] error: unhandledRejection: connect is not defined
+ReferenceError: connect is not defined
+    at connectToDB (file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/connection/connection.js:4:5)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/index.js:13:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+[2025-07-19T17:01:17.777Z] error: unhandledRejection: connect is not defined
+ReferenceError: connect is not defined
+    at connectToDB (file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/connection/connection.js:4:5)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/index.js:13:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)

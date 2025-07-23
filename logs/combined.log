@@ -1,0 +1,74 @@
+[2025-07-19T17:00:51.144Z] info: Server is running on port 5000
+[2025-07-19T17:00:51.218Z] error: unhandledRejection: connect is not defined
+ReferenceError: connect is not defined
+    at connectToDB (file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/connection/connection.js:4:5)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/index.js:13:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+[2025-07-19T17:01:17.762Z] info: Server is running on port 5000
+[2025-07-19T17:01:17.777Z] error: unhandledRejection: connect is not defined
+ReferenceError: connect is not defined
+    at connectToDB (file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/connection/connection.js:4:5)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/index.js:13:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+[2025-07-19T17:02:02.569Z] info: Server is running on port 5000
+[2025-07-19T17:02:03.635Z] info: Connected to MongoDB
+[2025-07-19T17:11:20.721Z] info: Server is running on port 5000
+[2025-07-19T17:11:21.797Z] info: Connected to MongoDB
+[2025-07-19T17:12:59.069Z] info: Server is running on port 5000
+[2025-07-19T17:13:00.317Z] info: Connected to MongoDB
+[2025-07-19T17:14:13.415Z] info: Server is running on port 5000
+[2025-07-19T17:14:14.737Z] info: Connected to MongoDB
+[2025-07-19T17:37:08.151Z] info: Server is running on port 5000
+[2025-07-19T17:37:09.465Z] info: Connected to MongoDB
+[2025-07-19T17:45:13.546Z] info: Server is running on port 5000
+[2025-07-19T17:45:15.079Z] info: Connected to MongoDB
+[2025-07-19T17:45:50.051Z] info: Server is running on port 5000
+[2025-07-19T17:45:51.004Z] info: Connected to MongoDB
+[2025-07-19T17:48:05.199Z] info: Server is running on port 5000
+[2025-07-19T17:48:06.668Z] info: Connected to MongoDB
+[2025-07-19T17:49:44.853Z] info: Server is running on port 5000
+[2025-07-19T17:49:45.988Z] info: Connected to MongoDB
+[2025-07-19T17:55:17.529Z] info: Server is running on port 5000
+[2025-07-19T17:55:18.737Z] info: Connected to MongoDB
+[2025-07-19T17:55:31.574Z] info: Server is running on port 5000
+[2025-07-19T17:55:32.631Z] info: Connected to MongoDB
+[2025-07-19T18:04:08.601Z] info: Server is running on port 5000
+[2025-07-19T18:04:09.731Z] info: Connected to MongoDB
+[2025-07-19T18:05:57.517Z] info: Server is running on port 5000
+[2025-07-19T18:05:58.658Z] info: Connected to MongoDB
+[2025-07-19T18:07:21.880Z] info: Server is running on port 5000
+[2025-07-19T18:07:23.377Z] info: Connected to MongoDB
+[2025-07-19T18:08:10.926Z] info: Server is running on port 5000
+[2025-07-19T18:08:12.149Z] info: Connected to MongoDB
+[2025-07-20T08:44:56.015Z] info: Server is running on port 5000
+[2025-07-20T08:44:57.229Z] info: Connected to MongoDB
+[2025-07-20T09:08:38.261Z] info: Server is running on port 5000
+[2025-07-20T09:08:39.676Z] info: Connected to MongoDB
+[2025-07-20T09:17:32.209Z] info: Server is running on port 5000
+[2025-07-20T09:17:33.364Z] info: Connected to MongoDB
+[2025-07-20T09:21:36.794Z] info: Server is running on port 5000
+[2025-07-20T09:21:37.944Z] info: Connected to MongoDB
+[2025-07-20T09:25:39.840Z] info: Server is running on port 5000
+[2025-07-20T09:25:41.255Z] info: Connected to MongoDB
+[2025-07-20T09:39:29.569Z] info: Server is running on port 5000
+[2025-07-20T09:39:30.624Z] info: Connected to MongoDB
+[2025-07-20T09:57:18.074Z] info: Server is running on port 5000
+[2025-07-20T09:57:19.714Z] info: Connected to MongoDB
+[2025-07-20T09:57:51.792Z] info: Server is running on port 5000
+[2025-07-20T09:57:52.948Z] info: Connected to MongoDB
+[2025-07-20T10:22:32.680Z] info: Server is running on port 5000
+[2025-07-20T10:22:33.891Z] info: Connected to MongoDB
+[2025-07-20T10:25:33.153Z] info: Server is running on port 5000
+[2025-07-20T10:25:34.356Z] info: Connected to MongoDB
+[2025-07-20T13:44:13.479Z] info: Server is running on port 5000
+[2025-07-20T13:44:14.799Z] info: Connected to MongoDB
+[2025-07-20T13:54:21.865Z] info: Server is running on port 5000
+[2025-07-20T13:54:23.037Z] info: Connected to MongoDB
+[2025-07-20T13:54:33.094Z] info: Server is running on port 5000
+[2025-07-20T13:54:34.124Z] info: Connected to MongoDB
+[2025-07-20T14:03:35.961Z] info: Server is running on port 5000
+[2025-07-20T14:03:37.142Z] info: Connected to MongoDB

@@ -1,0 +1,84 @@
+[2025-07-21T08:50:47.271Z] error: uncaughtException: Invalid protocol
+TypeError: Invalid protocol
+    at RedisClient.parseURL (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:97:19)
+    at #initiateOptions (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:211:31)
+    at new RedisClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:180:46)
+    at new Class (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\commander.js:9:45)
+    at C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:80:34
+    at create (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:84:35)
+    at createClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\redis\dist\index.js:38:38)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/utils/redisClient.js:3:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+[2025-07-21T08:51:39.909Z] error: uncaughtException: Invalid protocol
+TypeError: Invalid protocol
+    at RedisClient.parseURL (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:97:19)
+    at #initiateOptions (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:211:31)
+    at new RedisClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:180:46)
+    at new Class (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\commander.js:9:45)
+    at C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:80:34
+    at create (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:84:35)
+    at createClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\redis\dist\index.js:38:38)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/utils/redisClient.js:3:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+[2025-07-21T08:51:52.719Z] error: uncaughtException: Invalid protocol
+TypeError: Invalid protocol
+    at RedisClient.parseURL (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:97:19)
+    at #initiateOptions (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:211:31)
+    at new RedisClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:180:46)
+    at new Class (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\commander.js:9:45)
+    at C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:80:34
+    at create (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:84:35)
+    at createClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\redis\dist\index.js:38:38)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/utils/redisClient.js:3:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+[2025-07-21T08:52:50.876Z] error: uncaughtException: Invalid protocol
+TypeError: Invalid protocol
+    at RedisClient.parseURL (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:97:19)
+    at #initiateOptions (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:211:31)
+    at new RedisClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:180:46)
+    at new Class (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\commander.js:9:45)
+    at C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:80:34
+    at create (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:84:35)
+    at createClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\redis\dist\index.js:38:38)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/utils/redisClient.js:3:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+[2025-07-21T08:54:47.988Z] error: uncaughtException: Invalid protocol
+TypeError: Invalid protocol
+    at RedisClient.parseURL (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:97:19)
+    at #initiateOptions (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:211:31)
+    at new RedisClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:180:46)
+    at new Class (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\commander.js:9:45)
+    at C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:80:34
+    at create (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\@redis\client\dist\lib\client\index.js:84:35)
+    at createClient (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\redis\dist\index.js:38:38)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/utils/redisClient.js:3:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+[2025-07-21T08:55:06.787Z] error: uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/index.js:25:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-21T08:56:03.112Z] error: uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/index.js:25:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-21T08:58:18.616Z] error: uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/index.js:25:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-21T09:00:10.339Z] error: uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/index.js:25:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-21T09:05:54.201Z] error: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Route.<computed> [as get] (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\router\lib\route.js:221:13)
+    at Router.<computed> [as get] (C:\Users\B.NAT\OneDrive\Desktop\Fullstack\bloodBank\backend\node_modules\router\index.js:448:19)
+    at file:///C:/Users/B.NAT/OneDrive/Desktop/Fullstack/bloodBank/backend/routes/adminRoute.js:8:8
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)

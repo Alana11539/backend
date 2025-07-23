@@ -1,0 +1,11 @@
+import express from 'express';
+import { isAuthenticated } from '../middleware/isAuthenticated.js';
+import { authorizeRoles } from '../middleware/authRole.js';
+import{createPatient, getAllPatients, getPatientById, updatePatient, deletePatient} from '../controller/patientController.js';
+const router = express.Router();
+router.post('/create', isAuthenticated, authorizeRoles('admin'), createPatient);
+router.get('/patients', isAuthenticated, authorizeRoles('admin'), getAllPatients);
+router.get('/patient/:id', isAuthenticated, authorizeRoles('admin'), getPatientById);
+router.put('/patient/:id', isAuthenticated, authorizeRoles('admin'), updatePatient);
+router.delete('/patient/:id', isAuthenticated, authorizeRoles('admin'), deletePatient);
+export default router;
