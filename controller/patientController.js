@@ -4,7 +4,7 @@ import redisClient from '../utils/redisClient.js';
 
 export const createPatient = async (req, res) => {
   try {
-    const { name, bloodGroupType, contact, address, age, medicalHistory, addmissionDate, urgency, hospital } = req.body;
+    const { name, bloodGroupType, contact,  age, medicalHistory, addmissionDate, urgency, hospital } = req.body;
     console.log('Patient creation attempt with data:', req.body);
 
     const existingPatient = await patientModel.findOne({ contact });
@@ -16,7 +16,6 @@ export const createPatient = async (req, res) => {
       name,
       bloodGroupType,
       contact,
-      address,
       age,
       medicalHistory,
       urgency,
@@ -80,7 +79,7 @@ export const getPatientById = async (req, res) => {
 export const updatePatient = async (req, res) => {
   try {
     const { id } = req.params;
-    const { name, bloodGroupType, contact, address, age, medicalHistory } = req.body;
+    const { name, bloodGroupType, contact, age, medicalHistory } = req.body;
 
     const patient = await patientModel.findById(id);
     if (!patient) {
@@ -90,7 +89,6 @@ export const updatePatient = async (req, res) => {
     patient.name = name || patient.name;
     patient.bloodGroupType = bloodGroupType || patient.bloodGroupType;
     patient.contact = contact || patient.contact;
-    patient.address = address || patient.address;
     patient.age = age || patient.age;
     patient.medicalHistory = medicalHistory || patient.medicalHistory;
 
